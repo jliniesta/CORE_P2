@@ -1,0 +1,18 @@
+{
+  "name": "Entrega2_MVC_Cliente",
+  "version": "1.0.0",
+  "description": "Entrega2_MVC_Cliente",
+  "scripts": {
+  },
+  "keywords": [
+    "CORE"
+  ],
+  "author": "CORE-2020",
+  "license": "Unlicense",
+  "info": {
+    "githubURL": "CORE-2020/Entrega2_MVC_Cliente",
+    "serverUrl": "https://autocorector.dit.upm.es/",
+    "courseId": "8249",
+    "assignmentId": "76452"
+  }
+}
